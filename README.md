@@ -42,6 +42,6 @@ https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/3/c1579197f656
 ## 🏃 How to Run
   Clone the repository
   
-      **git clone https://github.com/Bfatahallah/dynamic-to-do-list-js.git**
+      git clone https://github.com/Bfatahallah/dynamic-to-do-list-js.git
   
 2.Open index.html in your browser.
