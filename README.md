@@ -40,7 +40,8 @@ A basic to-do list app with add, remove, and persistent storage functionality.
 https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/3/c1579197f656a69c8e000abeed7e6ae39f136174.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251005T165806Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dad6db03c7a655b0079ba2a1dfe1166f62128f7d81ae859aa38c91f08db2857d
 
 ## 🏃 How to Run
-1. Clone the repository:
-   bash:
-   [git clone https://github.com/Bfatahallah/dynamic-to-do-list-js.git]
-Open index.html in your browser.
+  **Clone the repository**
+  *                                                               bash:
+  git clone https://github.com/Bfatahallah/dynamic-to-do-list-js.git
+  
+2.Open index.html in your browser.
